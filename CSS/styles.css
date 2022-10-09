@@ -71,3 +71,6 @@
   .register-page{
      background-color: #D2DAFF;
   }
+  .carousel-item{
+    height: 500px;
+    }
